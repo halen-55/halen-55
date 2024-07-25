@@ -22,7 +22,7 @@ ___
 
 
 
-<p align="right">
+<p align="center">
   <a href="https://t.me/Halen55"><img style="margin:0.5rem" width="200" height="55" src="src/telegram.png"></a>
 </p>
 
