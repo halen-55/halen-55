@@ -1,8 +1,6 @@
 ![image](src/header.png)
-# Hi, I'm Lena. Self-taught frontend   
+# Hi, I'm Lena. Fronted developer
 
-
->At this stage, I am creating a project using react
 ### Technologies
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript) 
 ![react](https://img.shields.io/badge/-react-000080?style=for-the-badge&logo=react) ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5) ![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3) ![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass) ![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql) ![notion](https://img.shields.io/badge/-notion-090909?style=for-the-badge&logo=notion) ![figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma) ![photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe) -->
@@ -23,7 +21,7 @@ ___
 
 
 <p align="center">
-  <a href="https://t.me/Halen55"><img style="margin:0.5rem" width="200" height="55" src="src/telegram.png"></a>
+  <a href="https://t.me/lena_yanushenko"><img style="margin:0.5rem" width="200" height="55" src="src/telegram.png"></a>
 </p>
 
 
