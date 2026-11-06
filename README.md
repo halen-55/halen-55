@@ -5,8 +5,29 @@
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript) 
 ![react](https://img.shields.io/badge/-react-000080?style=for-the-badge&logo=react) ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5) ![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3) ![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass) ![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql) ![notion](https://img.shields.io/badge/-notion-090909?style=for-the-badge&logo=notion) ![figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma) ![photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobe) -->
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-000080?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 
-![Static Badge](https://img.shields.io/badge/React-99effe?style=for-the-badge&logo=react&logoColor=99effe&labelColor=black) ![Static Badge](https://img.shields.io/badge/javascript-fdd105?style=for-the-badge&logo=javascript&logoColor=fdd105&labelColor=black) ![Static Badge](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=black) ![Static Badge](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=e34f26&labelColor=black) ![Static Badge](https://img.shields.io/badge/css3-4b97ed?style=for-the-badge&logo=css3&logoColor=4b97ed&labelColor=black) ![Static Badge](https://img.shields.io/badge/sass-ac8ef8?style=for-the-badge&logo=sass&logoColor=ac8ef8&labelColor=black) ![Static Badge](https://img.shields.io/badge/mySQL-086690?style=for-the-badge&logo=mySQL&logoColor=white&labelColor=black) ![Static Badge](https://img.shields.io/badge/notion-d3d3d4?style=for-the-badge&logo=notion&logoColor=white&labelColor=black) ![Static Badge](https://img.shields.io/badge/figma-d5451b?style=for-the-badge&logo=figma&logoColor=d5451b&labelColor=black) ![Static Badge](https://img.shields.io/badge/Photoshop-38aafe?style=for-the-badge&logo=adobe&logoColor=38aafe&labelColor=black)
+![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=mobx)
+![React Query](https://img.shields.io/badge/-React_Query-090909?style=for-the-badge&logo=reactquery)
+![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=axios)
+![Shadcn](https://img.shields.io/badge/-Shadcn-090909?style=for-the-badge&logo=shadcnui)
+
+![Module Federation](https://img.shields.io/badge/-Module_Federation-090909?style=for-the-badge&logo=webpack)
+![Микрофронтенды](https://img.shields.io/badge/-Микрофронтенды-090909?style=for-the-badge&logo=micro-frontends)
+![FSD](https://img.shields.io/badge/-FSD-090909?style=for-the-badge&logo=feature-sliced-design)
+
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-090909?style=for-the-badge&logo=githubactions)
+![Scrum](https://img.shields.io/badge/-Scrum-090909?style=for-the-badge&logo=scrumalliance)
+![Notion](https://img.shields.io/badge/-Notion-090909?style=for-the-badge&logo=notion)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobe)
 
 
 ___
@@ -17,15 +38,3 @@ ___
 | project | discription| link
 |-:|:-|:-|
 |smile -->
-
-
-
-<p align="center">
-  <a href="https://t.me/lena_yanushenko"><img style="margin:0.5rem" width="200" height="55" src="src/telegram.png"></a>
-</p>
-
-
-
-
-<!-- [Connect with me in telegram](https://t.me/Halen55) -->
- 
